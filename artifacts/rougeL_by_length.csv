@@ -1,0 +1,10 @@
+Mô hình,Độ dài câu nguồn,Số câu,ROUGE-L F1
+Bài 1. Không attention,≤ 15,667,0.2976
+Bài 1. Không attention,16–30,870,0.2053
+Bài 1. Không attention,31–50,249,0.1683
+Bài 2. Bahdanau,≤ 15,667,0.3708
+Bài 2. Bahdanau,16–30,870,0.2864
+Bài 2. Bahdanau,31–50,249,0.2566
+Bài 3. Luong,≤ 15,667,0.3667
+Bài 3. Luong,16–30,870,0.2765
+Bài 3. Luong,31–50,249,0.2417

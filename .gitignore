@@ -1,0 +1,11 @@
+# Dữ liệu PhoMT: không đưa lên GitHub theo yêu cầu đề
+data/
+
+# Checkpoint mô hình
+*.pt
+
+# Python / Jupyter / Colab
+__pycache__/
+.ipynb_checkpoints/
+artifacts_export/
+artifacts.zip

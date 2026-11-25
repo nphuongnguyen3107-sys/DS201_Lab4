@@ -1,0 +1,4 @@
+Mô hình,ROUGE-L greedy,ROUGE-L beam=5,BLEU greedy,BLEU beam=5,Thời gian beam (s)
+Bài 1. Không attention,0.2346,0.241,2.61,2.84,3.4
+Bài 2. Bahdanau,0.3138,0.3253,5.83,6.53,3.7
+Bài 3. Luong,0.3054,0.3177,5.52,6.38,3.0

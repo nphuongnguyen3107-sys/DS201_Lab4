@@ -1,0 +1,4 @@
+Mô hình,ROUGE-L dev,ROUGE-L test,BLEU test,Số tham số,Giây/epoch,Epoch tốt nhất
+Bài 1. Không attention,0.2298,0.2346,2.61,"7,500,963",86.4,10
+Bài 2. Bahdanau,0.2975,0.3138,5.83,"8,025,763",147.1,10
+Bài 3. Luong,0.2905,0.3054,5.52,"7,959,971",147.4,10
